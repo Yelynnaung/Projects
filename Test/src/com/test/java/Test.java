@@ -1,5 +1,8 @@
 package com.test.java;
 
 public class Test {
-  System.out.print("Hello");
+
+ public static void main(String[] args) {
+	 	System.out.print("Hello");
+ }
 }
